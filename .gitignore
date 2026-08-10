@@ -1,0 +1,5 @@
+/irc
+/ircd
+*.test
+*.out
+.DS_Store
